@@ -1,2 +1,2 @@
-#  Tienda  Online
+#  inventariado
 sistema de inventario
